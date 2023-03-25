@@ -1,0 +1,80 @@
+body{
+    background-color: grey;
+    margin: 0;
+}
+.nav{
+    height: 80px;
+    width: 100%;
+    background-color: aliceblue;
+    color: black;
+    text-decoration: none;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+.nav img{
+    height: 50px;
+   justify-content: start;
+}
+.nav .logo{
+    height: 30px;
+    justify-content: right;
+
+}
+.login{
+    margin: auto;
+    height: 80px;
+    width: 100%;
+    justify-content:center;
+    color: red;
+    text-decoration: none;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+.login1{
+    justify-content:right;
+    color: black;
+    text-decoration: none;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+   
+
+}
+.cad{
+    height: 80px;
+    width: 100%;
+    background-color: aliceblue;
+    justify-content: center;
+    margin: 0;
+
+    
+
+}
+.txt{
+    text-decoration: none;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+   color: black;
+   background-color: grey;
+ 
+
+}
+.login3{
+    height: 80px;
+    width: 100%;
+    background-color: aliceblue;
+    justify-content: center;
+    margin: 0;
+
+
+}
+.texto{
+    text-decoration: none;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+   color: black;
+   background-color: grey;
+ 
+
+}
